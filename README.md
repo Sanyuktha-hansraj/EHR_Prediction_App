@@ -102,7 +102,6 @@ EHR_Prediction_App/
 
 **Sanyuktha Hansraj**  
 MSc Data Analytics with Bio AI – Digital University Kerala  
-Aspiring Healthcare Data Analyst  
 GitHub: [@Sanyuktha-hansraj](https://github.com/Sanyuktha-hansraj)
 
 ---
